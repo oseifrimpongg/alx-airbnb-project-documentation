@@ -19,6 +19,6 @@ The use case diagram illustrates how different types of users interact with key 
 
 ## 📄 File
 
-- `use-case-diagram.png` – A UML use case diagram created using Draw.io that captures all primary user-system interactions.
+- `use-case-diagram.svg` – A UML use case diagram created using Draw.io that captures all primary user-system interactions.
 
 This diagram provides a high-level overview of user flows and system boundaries, serving as a foundation for later tasks like user stories and process modeling.
